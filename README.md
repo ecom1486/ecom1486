@@ -1,6 +1,6 @@
-### Hi there 👋
+### 환영합니다..👋
 
-<h1>환영합니다..여기는 세명대학교 스마트IT학부 GitHub Test Labs 입니다.. </h1>
+<h1>여기는 세명대학교 스마트IT학부 GitHub Test Labs 입니다.. </h1>
 <!--
 **ecom1486/ecom1486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
